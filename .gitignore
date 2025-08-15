@@ -1,2 +1,5 @@
 # IDE
 .idea
+
+# Database
+schema/db-user.sql
