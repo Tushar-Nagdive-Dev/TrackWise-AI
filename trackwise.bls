@@ -1,0 +1,24 @@
+.
+├── arches
+│   ├── Arch-v1.md
+│   └── Arch-v2.md
+├── LICENSE
+├── README.md
+├── schema
+│   └── db-user.sql
+├── trackwise-bls
+│   ├── build.gradle.kts
+│   ├── gradle
+│   │   └── wrapper
+│   │       ├── gradle-wrapper.jar
+│   │       └── gradle-wrapper.properties
+│   ├── gradlew.bat
+│   ├── services
+│   │   ├── intelligence-service
+│   │   │   └── build.gradle.kts
+│   │   └── ledger-service
+│   │       └── build.gradle.kts
+│   └── settings.gradle.kts 
+└── trackwise.bls
+
+9 directories, 13 files

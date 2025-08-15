@@ -1,0 +1,8 @@
+rootProject.name = "trackwise-backend"
+include("trackwise-bls")
+
+include("services:ledger-service")
+include("services:intelligence-service")
+
+project(":services:ledger-service").name = "ledger-service"
+project(":services:intelligence-service").name = "intelligence-service"

@@ -1,5 +1,14 @@
 # IDE
 .idea
 
+# system
+.env
+
 # Database
 schema/db-user.sql
+
+# Gradle
+trackwise-bls/.gradle
+trackwise-bls/build
+trackwise-bls/gradlew
+trackwise-bls/gradlew.bat
